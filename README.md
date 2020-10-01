@@ -1,8 +1,8 @@
 # Machine Learning
 
-“It gives computers the ability to learn without being explicitly programmed”.
+“It gives computer the ability to learn without being explicitly programmed”.
 
-Let’s try to understand Machine Learning in layman terms. Consider you are trying to toss a paper to a dustbin.
+Let’s try to understand Machine Learning in Layman(easy) terms. Consider you are trying to toss a paper to a dustbin.
 
 After first attempt, you realize that you have put too much force in it. After second attempt, you realize you are closer to target but you need to increase your throw angle. What is happening here is basically after every throw we are learning something and improving the end result. We are programmed to learn from our experience.
 
