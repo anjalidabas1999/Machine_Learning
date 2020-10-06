@@ -12,7 +12,7 @@ So if you want your program to predict, for example, traffic patterns at a busy 
 
 ## Applications of Machine Learning
 
-1. Facebook Facial Recognition
+1. Facial Recognition in Facebook or in google photos.
 
 2. Play Games With Your Action
 
